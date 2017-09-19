@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author letan
+ * @author dang to vu anh
  */
 public class CalculatorFraction {
 
